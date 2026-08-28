@@ -1,0 +1,21 @@
+# VS Code
+.vscode/
+
+# C/C++ build output
+*.o
+*.out
+*.exe
+
+# C90 practice executables
+c90/*/*
+!c90/*/*.c
+!c90/*/Makefile
+!c90/*/README.md
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
