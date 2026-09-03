@@ -36,3 +36,15 @@ The repository emphasizes:
 - documentation that supports both collaboration and later recall.
 
 See `DESIGN.md` for the repository design.
+
+## Working Principles
+
+> “Furious activity is no substitute for understanding.”
+> — H. H. Williams
+
+> “The only way to learn a new programming language is by writing programs in it.”
+> — Brian W. Kernighan and Dennis M. Ritchie
+
+These principles support the purpose of this workbench: write small programs,
+reconstruct their implementation from understanding, test them, and retain the
+ability to reproduce the underlying ideas independently.
